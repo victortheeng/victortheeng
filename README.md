@@ -1,2 +1,2 @@
 
-![](imagempng)
+![](fotobanner)
