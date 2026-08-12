@@ -1,2 +1,2 @@
 Markdown
-![](imagempng.png)
+![](imagempng)
